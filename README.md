@@ -1,6 +1,7 @@
 # TRAE Rules 实践：为项目配置 6A 工作流
 
-## 参考 https://github.com/OIAPI/6A-TRAE 的基础上做了一些适合自己的修改
+### 参考 https://github.com/OIAPI/6A-TRAE 
+- 在此基础上做了一些适合自己的修改
 
 
 ```Markdown
